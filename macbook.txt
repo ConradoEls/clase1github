@@ -1,1 +1,1 @@
-hoy modifiquee línea1
+hoy git statusmodifiquee línea1
